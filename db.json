@@ -16,21 +16,6 @@
                 "updated_at": "2019-06-18 15:29:48"
               },
             {
-              "id": 4,
-              "name": "Fresh Fitness: Pound Rockout Workout",
-              "description": "Move to the beat you create at Pound Rockout Workout, every other Tuesday at the Sports Courts. This funk-filled full body workout is designed for all ages and abilities, and will help you tone up and rock on!",
-              "user_id": 1,
-              "event_category_id": 1,
-              "start_date": "2019-06-18",
-              "end_date": "2019-06-18",
-              "start_time": "10:00:00",
-              "end_time": null,
-              "image_url": "http://via.placeholder.com/640x360?text=Event+Image",
-              "event_address_id": 3,
-              "created_at": "2019-06-18 15:29:48",
-              "updated_at": "2019-06-18 15:29:48"
-            },
-            {
               "id": 5,
               "name": "Movie Night: Cloudy with a Chance of Meatballs",
               "description": "Gather on the QuikTrip Great Lawn for a Movie Night presented by Cox! The first summer film in the Cox Movie Night Series is family favorite, “Cloudy with a Chance of Meatballs.” The film will begin at 7:30 p.m. on Wednesday, June 19th. Don’t forget your lawn chair or blankets!",
